@@ -1,0 +1,22 @@
+:root {
+
+    /* Screen Sizes */
+    --xs: 480px;
+    --small: 600px;
+    --md: 720px;
+    --large: 1024px;
+    --xl: 1440px;
+
+    /* Red Color Pallet */
+    --red-200: #FC7474;
+
+    /* Green Color Pallet */
+    --green-200: #79CEA5;
+
+    /* Purple Color Pallet */
+    --purple-500: #7D89F2;
+    --purple-600: #4B599A;
+    --purple-700: #3B447F;
+    --purple-1000: #1B1C44;
+
+}
